@@ -1,0 +1,34 @@
+.new-user {
+  background-color: #0A849F;
+  color: white;
+  padding: 10px;
+}
+
+fieldset {
+  border: 2px solid #0A849F;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+legend {
+  color: #0A849F;
+  font-weight: bold;
+  padding: 0 10px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px; /* Optional: Adjust spacing between rows */
+}
+
+.col {
+  flex: 1;
+  margin-right: 10px; /* Optional: Adjust spacing between label and input */
+}
+
+label {
+  width: 200px; /* Adjust width as needed */
+}
+
+

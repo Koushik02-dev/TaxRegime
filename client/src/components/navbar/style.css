@@ -1,0 +1,19 @@
+/* Navbar.css */
+.icon-dark-cyan {
+    background-color: #0A849F;
+    border-radius: 10%;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.navbar .ml-auto {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 768px){
+    .heading{
+        display: none;
+    }
+}
